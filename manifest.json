@@ -1,0 +1,29 @@
+{
+	"manifest_version": 2,
+	"name": "Panic Button",
+	"version": "1.0",
+	
+	"description": "Masks current window with another window.",
+
+	// "icons": { //icons in png format },
+	// },
+
+	// "browser_action": {
+	// 	"default_icon": "Timer.png",
+	// 	"default_popup": "popup.html"
+	// },
+
+	// "chrome_url_overrides": {
+	// 	"newtab": "newTab.html"
+	// }
+
+	// "background": { //background page in html, and/or uses a script
+	// 	"persistent": true, //opens background page that consistently runs" 
+	// 	"page": , //html
+	// 	"script": , //JavaScript
+	// },
+
+	// "permissions": [
+	// 	"background" //allows extension to run as soon as user logs into computer
+	// ]
+}
