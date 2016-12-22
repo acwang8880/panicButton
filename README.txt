@@ -1,1 +1,3 @@
-This is the read me.
+# Panic Button Chrome Extension
+
+// give this project a description
